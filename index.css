@@ -1,0 +1,58 @@
+body{
+    margin: auto;
+    max-width: 550px;
+    text-align: center;
+    color:white;
+
+    
+}
+
+#hero {
+    margin-top:100px;
+    background: #3B3B3B;
+    height: 285px;
+    border-radius:20px 20px 0 0;
+}
+
+h1, h2 {
+    margin-top:10px;
+    padding-top: 30px;
+}
+
+#input{
+    width: 300px;
+    height: 83px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: inherit;
+    font-size: 30;
+    color: white;
+    padding: 50;
+    
+}
+
+#convert-btn {
+    padding:5px 20px;
+    border-radius: 3px;
+    border: none;
+    display: block;
+    margin: 20px auto;
+    font-size: larger;
+
+}
+
+
+#output {
+    background: #F4F4F4;
+    height: 450px;
+    padding-top:10px;
+    border-radius:0 0 20px 20px;
+}
+
+.result {
+    color: #5A537B;
+    background: #FFFFFF;
+    width: 500px;
+    height: 108.57px;
+    margin: 10px auto;
+}
